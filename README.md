@@ -3,18 +3,18 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning JS and Frontend framework
+- 🔭 &nbsp; I’m currently learning JS and Frontend framework.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Engineer on Ondokuz Mayis University, I graduated from Mersin University Computer Programming
-- 💼 &nbsp; I want to work Full-Stack Developer or Mobile Developer
-- ✍️ &nbsp; Watching series and trying out latest design trends as hobbies/side hustles.
+- 🎓 &nbsp; Studying Computer Engineer on Ondokuz Mayis University. I graduated from Mersin University Computer Programming.
+- 💼 &nbsp; I want to work as a Full-Stack Developer or a Mobile Developer.
+- ✍️ &nbsp; Watching tv-series and trying out latest design trends as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MSSQL | MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | RubyMine | Visual Studio code | Eclipse | Git | Navicat
+- 💻 &nbsp; JS | Ruby | C |  C#
+- 🌐 &nbsp; ReactJS | React-Native | HTML | CSS | JavaScript | Bootstrap | ExpressJS
+- 🛢 &nbsp; MSSQL | MySQL | Firebase | Xampp | MongoDB
+- 🔧 &nbsp; Visual Studio code  | RubyMine  | Git | Navicat Android Studio 
 
 
 <br>
