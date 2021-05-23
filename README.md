@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning JS and Frontend framework
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Engineer on Ondokuz Mayis Universitesi, I graduated from Mersin University Computer Programming
+- 🎓 &nbsp; Studying Computer Engineer on Ondokuz Mayis University, I graduated from Mersin University Computer Programming
 - 💼 &nbsp; I want to work Full-Stack Developer or Mobile Developer
 - ✍️ &nbsp; Watching series and trying out latest design trends as hobbies/side hustles.
 
