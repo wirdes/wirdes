@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning JS and Frontend framework.
+- 🔭 &nbsp; I’m currently learning JS and it's Frontend frameworks.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering on Ondokuz Mayis University. I graduated from Mersin University Computer Programming.
 - 💼 &nbsp; I want to work as a Full-Stack Developer or a Mobile Developer.
