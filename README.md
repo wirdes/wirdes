@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering on Ondokuz Mayis University. I graduated from Mersin University Computer Programming.
 - 💼 &nbsp; I want to work as a Full-Stack Developer 
-- ✍️ &nbsp; Watching tv-series and trying out latest design trends as hobbies/side hustles.
+- ✍️ &nbsp; I'm watching tv-series and trying out latest design trends as hobbies/side hustles.
 <br>
 <h3>🛠 Tech Stack</h3>
 
