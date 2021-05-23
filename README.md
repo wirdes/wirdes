@@ -14,7 +14,7 @@
 - 💻 &nbsp; JS | Ruby | C |  C#
 - 🌐 &nbsp; ReactJS | React-Native | HTML | CSS | JavaScript | Bootstrap | ExpressJS
 - 🛢 &nbsp; MSSQL | MySQL | Firebase | Xampp | MongoDB
-- 🔧 &nbsp; Visual Studio code  | RubyMine  | Git | Navicat Android Studio 
+- 🔧 &nbsp; Visual Studio code  | RubyMine  | Git | Navicat | Android Studio 
 
 
 <br>
