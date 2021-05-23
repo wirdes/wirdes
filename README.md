@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Computer Engineering on Ondokuz Mayis University. I graduated from Mersin University Computer Programming.
 - 💼 &nbsp; I want to work as a Full-Stack Developer 
 - ✍️ &nbsp; Watching tv-series and trying out latest design trends as hobbies/side hustles.
-
+<br>
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JS | Ruby | C |  C#
