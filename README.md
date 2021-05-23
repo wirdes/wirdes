@@ -1,5 +1,5 @@
-<h2> Hey there! I'm Wirdes. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/S9RKaj4E4dhWvKfMHf/source.gif" width="500"/>
+<h2> Hey there! I'm Wirdes. <img src="https://media.giphy.com/media/S9RKaj4E4dhWvKfMHf/source.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
