@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently learning JS and it's Frontend frameworks.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering on Ondokuz Mayis University. I graduated from Mersin University Computer Programming.
-- 💼 &nbsp; I want to work as a Full-Stack Developer 
+- 💼 &nbsp; I want to work as a Full-Stack Developer. 
 - ✍️ &nbsp; I'm watching TV-series and trying out latest design trends as hobbies/side hustles.
 <br>
 <h3>🛠 Tech Stack</h3>
