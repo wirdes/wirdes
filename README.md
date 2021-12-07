@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JS | Ruby | C |  C#
-- 🌐 &nbsp; ReactJS | React-Native | HTML | CSS | JavaScript | Bootstrap | ExpressJS
+- 🌐 &nbsp; NodeJS | React-Native | HTML | CSS | JavaScript | Bootstrap | ExpressJS
 - 🛢 &nbsp; MSSQL | MySQL | Firebase | Xampp | MongoDB
 - 🔧 &nbsp; Visual Studio code  | RubyMine  | Git | Navicat | Android Studio 
 
