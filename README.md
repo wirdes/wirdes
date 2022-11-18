@@ -23,9 +23,10 @@ I'm watching TV-series and trying out latest design trends as hobbies/side hustl
 👉 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/DART-104e8b?style=for-the-badge&logo=Dart&logoColor=white">
 <img src="https://img.shields.io/badge/FLUTTER-104e8b?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/REACT-316192?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/REACTNATIVE-316192?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/EXPRESSJS-68A063?style=for-the-badge&logo=express">
+<img src="https://img.shields.io/badge/REACTNATIVE-316192?style=for-the-badge&logo=react&logoColor=white"><br><br>
+👉<img src="https://img.shields.io/badge/EXPRESSJS-68A063?style=for-the-badge&logo=express">
 <img src="https://img.shields.io/badge/MONGODB-%23589636.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MYSQL-%23589636.svg?&style=for-the-badge&logo=mysql&logoColor=orange">
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
 👉 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
