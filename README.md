@@ -11,7 +11,7 @@ I'm a Software Developer
 I’m currently learning JS or Cross Platforms frameworks.<br>
 Exploring new technologies and developing software solutions and quick hacks.<br>
 Studying Computer Engineering on Ondokuz Mayis University. I graduated from Mersin University Computer Programming.<br>
-I'm now work Mobile Developer at Hero Games.<br>
+I'm now work Mobile Developer at Hero Game.<br>
 I'm watching TV-series and trying out latest design trends as hobbies/side hustles.<br>
 
 <br>
