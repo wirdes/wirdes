@@ -10,9 +10,8 @@ Hi there, I'm Mert 👋
 
 <img src="https://img.shields.io/badge/EXPRESSJS-68A063?style=for-the-badge&logo=express"><br>
 
-<img src="https://img.shields.io/badge/MONGODB-%23589636.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MONGODB-%23589636.svg?&style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/MYSQL-%23589636.svg?&style=for-the-badge&logo=mysql&logoColor=orange">
 
-<img src="https://img.shields.io/badge/MYSQL-%23589636.svg?&style=for-the-badge&logo=mysql&logoColor=orange">
 
 <img src="https://img.shields.io/badge/FLUTTER-104e8b?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
 
