@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wirdes&color=000000&style=for-the-badge">
+</p>
 <h3 align="center">
 Hi there, I'm Mert 👋
 </h3> <br>
